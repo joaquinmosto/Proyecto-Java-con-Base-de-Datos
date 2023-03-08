@@ -1,0 +1,1 @@
+create table IF NOT EXISTS ODONTOLOGO(id BIGINT,nombre varchar(255),apellido varchar (255),matricula BIGINT);
